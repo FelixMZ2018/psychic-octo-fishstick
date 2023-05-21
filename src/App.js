@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Container>
         <Message content='Welcome to the second ospin coding challenge'/>
-        <Message content='Your Task is to render a table from a mocked API call,
+        <Message info content='Your Task is to render a table from a mocked API call,
          just as in the real world this api can take a bit of time and occasionally fails completly
          You can simply call it by using form The APIModule.fetchData method.
          I would encurage using the semantic ui react library (it is already integrated) but you are free to choose
